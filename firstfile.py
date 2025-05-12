@@ -1,5 +1,5 @@
 
-print("asdfasdfasdf")
+print("123")
 
 print("hello from alkisti")
 
